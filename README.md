@@ -1,5 +1,5 @@
 # Fardous M Shuvo
-Finance Analyst | CIMA Candidate | Power BI (Microsoft Certified) · Excel · PQ · SQL | Management Reporting | Reporting Automation & Data-Driven Insights | Business Intelligence 
+**Finance Analyst | CIMA Candidate | Power BI (Microsoft Certified) · Excel · Power Query & DAX · Power Pivot · SQL | Management Reporting | Reporting Automation & Data-Driven Insights | Commercial Awareness | Finance Storytelling**
 ### 
 LinkedIn: https://www.linkedin.com/in/sfardousm/ 
 
