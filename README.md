@@ -11,8 +11,8 @@ LinkedIn: https://www.linkedin.com/in/sfardousm/
 ## ⭐ Featured 
 - **Sales Analysis Dashboard (Power BI + Retail Sales)**  
   https://github.com/fardousfa/Sales-Analysis-Power-BI-Data-Analysis-and-Vizualisation
-- **Accounts Receivable (AR) Aging Dashboard (Power BI)**  
-  https://github.com/fardousfa/Accounts-Receivable-AR-Aging-Dashboard-Power-BI
+- **Accounts Receivable (AR) Ageing Dashboard (Power BI)**  
+  https://github.com/fardousfa/Accounts-Receivable-AR-Ageing-Dashboard-Power-BI
 - **Sales Performance Dashboard (Excel + Power Query + DAX + Power Pivot)**  
   https://github.com/fardousfa/Sales-Performance-Data-Analysis-Excel-Power-Query-DAX-Power-Pivot
 
