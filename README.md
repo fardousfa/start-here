@@ -90,7 +90,7 @@ Advanced **Excel** dashboard project combining data transformation, modeling, an
   🔗 [Repository](https://github.com/fardousfa/Postgre-SQL-and-Power-BI-Service-Data-FlowData-Anlysis/)
 
 - **Exploratory-Data-Analysis-in-SQL**  
-  SQL practice, scripts, and database-related work  
+  SQL project for exploratory data analysis, including data exploration, trend analysis, and insight-driven querying.  
   🔗 [Repository](https://github.com/fardousfa/Exploratory-Data-Analysis-in-SQL)
 
 ---
