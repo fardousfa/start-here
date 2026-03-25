@@ -30,6 +30,9 @@ LinkedIn: https://www.linkedin.com/in/sfardousm/
 - **SQL Server**  
   [https://github.com/fardousfa/sql](https://github.com/fardousfa/SQL-Data-Analytics)
 
+  - **FP&A Variance Analysis in SQL and Power BI**
+  https://github.com/fardousfa/Commercial-Finance-Variance-Analysis-PVM-in-SQL-and-Power-BI
+
 ## 📈 Financial Analysis (Company / Reporting)
 - **Tesco PLC Financial Performance Analysis (FY2022–FY2025)**  
   https://github.com/fardousfa/Financial-Performance-Analysis-Tesco-PLC-FY-2025-2022
