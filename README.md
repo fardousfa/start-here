@@ -6,7 +6,7 @@ I build business-focused analytics projects using **SQL, Power BI, Excel, Power 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfardousm/)
 [![My Certificates](https://img.shields.io/badge/My%20Certificates-Open-blue?logo=github&logoColor=white)](https://github.com/fardousfa/MyCertificates)
-
+[![Email](https://img.shields.io/badge/Email-Contact-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfardousm@gmail.com)
 ---
 
 ## Core Skills
