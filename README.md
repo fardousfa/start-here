@@ -4,7 +4,7 @@
 
 **I can help a finance team explain performance, forecast results, and support decisions.**
 
-Accounting & Finance graduate with strengths in **financial analysis and reporting, variance analysis, management reporting, forecasting, and commercial insight**, backed by **advanced Excel, Power Query, DAX, M, Power BI, and SQL**, and currently progressing through the CIMA Management Level.
+Accounting & Finance graduate with strong financial knowledge, backed by modern analytical tools including advanced Excel, Power BI, Power Query, DAX, M, and SQL, and currently progressing through the CIMA Management Level.
 
 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
@@ -20,7 +20,7 @@ Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 FP&A · Variance Analysis · Budgeting · Management Reporting · Commercial Finance · Forecasting · Financial Storytelling
 
 **Data & BI Tools**  
-SQL · Power BI · Excel · Power Query · DAX · Power Pivot · SSRS · Microsoft Report Builder · Microsoft Fabric
+SQL · Power BI · Excel · Power Query · DAX · Power Pivot · Microsoft Report Builder
 
 **Business Impact**  
 Business Partnering · KPI Tracking · Analytical Thinking · Data-Driven Insights · Decision Support
@@ -33,16 +33,16 @@ Business Partnering · KPI Tracking · Analytical Thinking · Data-Driven Insigh
 Built a commercial finance analysis project to explain revenue performance through **price, volume, and mix variance**.  
 🔗 [View Project](https://github.com/fardousfa/Commercial-Finance-Variance-Analysis-PVM-in-SQL-and-Power-BI)
 
-### 2. Sales Analysis Dashboard (Power BI + Retail Sales)
-Interactive **Power BI** dashboard focused on sales performance, product trends, and retail insights with clear visual storytelling.  
+### 2. Sales Analysis Dashboard | Power BI + Retail Sales
+Interactive Power BI dashboard focused on **sales performance, product trends, and retail insights** with clear visual storytelling.  
 🔗 [View Project](https://github.com/fardousfa/Sales-Analysis-Power-BI-Data-Analysis-and-Vizualisation)
 
-### 3. Accounts Receivable (AR) Ageing Dashboard (Power BI)
+### 3. Accounts Receivable (AR) Risk Analysis | Power BI
 Created a dashboard to track **overdue balances, ageing trends, and working capital** exposure.  
 🔗 [View Project](https://github.com/fardousfa/Accounts-Receivable-AR-Ageing-Dashboard-Power-BI)
 
-### 4. Sales Performance Dashboard (Excel + Power Query + DAX + Power Pivot)
-Advanced **Excel** dashboard project combining data transformation, modeling, and reporting for business performance analysis.  
+### 4. Sales Performance Dashboard | Excel + Power Query + DAX + Power Pivot
+Advanced Excel dashboard project combining **data transformation, modeling, and reporting** for business performance analysis.  
 🔗 [View Project](https://github.com/fardousfa/Sales-Performance-Data-Analysis-Excel-Power-Query-DAX-Power-Pivot)
 
 
@@ -117,6 +117,6 @@ Advanced **Excel** dashboard project combining data transformation, modeling, an
 ---
 
 ## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/sfardousm/)
-- [GitHub](https://github.com/fardousfa)
+Open to Finance Analyst and FP&A opportunities.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfardousm/)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white)](mailto:sfardousm@gmail.com)
