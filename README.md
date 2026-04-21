@@ -1,6 +1,7 @@
 # Hi, I'm Fardous M Shuvo
 
 <strong>Finance Analyst | Finance Anlytics | CIMA Candidate</strong>
+**I can help a finance team explain performance, forecast results, and support decisions.**”
 
 I build business-focused analytics projects using **SQL, Power BI, Excel, Power Query, DAX, Power Pivot** to turn data into clear financial and commercial insights. Microsoft Certified: Power BI Data Analyst Associate
 
