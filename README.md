@@ -4,7 +4,9 @@
 
 **I can help a finance team explain performance, forecast results, and support decisions.**
 
-I build business-focused analytics projects using **SQL, Power BI, Excel, Power Query, DAX, Power Pivot** to turn data into clear financial and commercial insights. Microsoft Certified: Power BI Data Analyst Associate
+Accounting & Finance graduate with strengths in **financial analysis and reporting, variance analysis, management reporting, forecasting, and commercial insight**, backed by **advanced Excel, Power Query, DAX, M, Power BI, and SQL**, and currently progressing through the CIMA Management Level.
+
+Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfardousm/)
 [![My Certificates](https://img.shields.io/badge/My%20Certificates-Open-blue?logo=github&logoColor=white)](https://github.com/fardousfa/MyCertificates)
@@ -27,8 +29,8 @@ Business Partnering · KPI Tracking · Analytical Thinking · Data-Driven Insigh
 
 ## ⭐Featured Projects
 
-### 1. FP&A Variance Analysis in SQL and Power BI
-Commercial finance variance analysis project using **SQL** for data preparation and **Power BI** for dashboard reporting. Includes **Price-Volume-Mix (PVM)** analysis, KPIs, and budget vs actual insights.  
+### 1. FP&A Variance Analysis | SQL + Power BI
+Built a commercial finance analysis project to explain revenue performance through **price, volume, and mix variance**.  
 🔗 [View Project](https://github.com/fardousfa/Commercial-Finance-Variance-Analysis-PVM-in-SQL-and-Power-BI)
 
 ### 2. Sales Analysis Dashboard (Power BI + Retail Sales)
@@ -36,7 +38,7 @@ Interactive **Power BI** dashboard focused on sales performance, product trends,
 🔗 [View Project](https://github.com/fardousfa/Sales-Analysis-Power-BI-Data-Analysis-and-Vizualisation)
 
 ### 3. Accounts Receivable (AR) Ageing Dashboard (Power BI)
-Dashboard for receivables ageing analysis and working capital visibility using **Dataflow, and Power BI Service** to demonstrate modern reporting pipelines.  
+Created a dashboard to track **overdue balances, ageing trends, and working capital** exposure.  
 🔗 [View Project](https://github.com/fardousfa/Accounts-Receivable-AR-Ageing-Dashboard-Power-BI)
 
 ### 4. Sales Performance Dashboard (Excel + Power Query + DAX + Power Pivot)
