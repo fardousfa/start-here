@@ -41,7 +41,7 @@ Interactive Power BI dashboard focused on **sales performance, product trends, a
 Created a dashboard to track **overdue balances, ageing trends, and working capital** exposure.  
 🔗 [View Project](https://github.com/fardousfa/Accounts-Receivable-AR-Ageing-Dashboard-Power-BI)
 
-### 4. Sales Performance Dashboard | Excel + Power Query + DAX + Power Pivot
+### 4. Sales Performance Analysis | Excel + Power Query + DAX + Power Pivot
 Advanced Excel dashboard project combining **data transformation, modeling, and reporting** for business performance analysis.  
 🔗 [View Project](https://github.com/fardousfa/Sales-Performance-Data-Analysis-Excel-Power-Query-DAX-Power-Pivot)
 
