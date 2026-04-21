@@ -1,6 +1,6 @@
 # Hi, I'm Fardous M Shuvo
 
-<strong>Finance Analyst | Finance Anlytics | CIMA Candidate</strong>
+<strong>Finance Analyst | FP&A | CIMA Candidate</strong>
 
 **I can help a finance team explain performance, forecast results, and support decisions.**
 
