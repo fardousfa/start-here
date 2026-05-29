@@ -20,7 +20,7 @@ Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 FP&A · Variance Analysis · Budgeting · Management Reporting · Commercial Finance · Forecasting · Financial Storytelling · Financial Modelling
 
 **Data & BI Tools**  
-Excel · SQL · Power BI · Power Query · DAX · Power Pivot · Microsoft Report Builder
+Excel · SQL · Python Pandas Matplotlib & Seaborn · Power BI · Power Query · DAX · Power Pivot · Microsoft Report Builder
 
 **Business Impact**  
 Business Partnering · KPI Tracking · Analytical Thinking · Data-Driven Insights · Decision Support
@@ -50,17 +50,11 @@ Advanced Excel dashboard project combining **data transformation, modeling, and 
 
 ## 📈Power BI Projects
 
-- **Sales Analysis Dashboard (Power BI + Retail Sales)**  
-  Interactive dashboard for sales, product, and retail performance analysis  
-  🔗 [Repository](https://github.com/fardousfa/Sales-Analysis-Power-BI-Data-Analysis-and-Vizualisation)
 
 - **Accounts Receivable (AR) Ageing Dashboard (Power BI)**  
   Dashboard for receivables ageing analysis and working capital visibility  
   🔗 [Repository](https://github.com/fardousfa/Accounts-Receivable-AR-Ageing-Dashboard-Power-BI)
 
-- **FP&A Variance Analysis in SQL and Power BI**  
-  Budget vs actual dashboard with PVM-based variance decomposition  
-  🔗 [Repository](https://github.com/fardousfa/Commercial-Finance-Variance-Analysis-PVM-in-SQL-and-Power-BI)
 
 - **PostgreSQL + Microsoft Fabric + Power BI Service**  
   Dataflow and published reporting workflow using modern BI tools  
@@ -70,9 +64,6 @@ Advanced Excel dashboard project combining **data transformation, modeling, and 
 
 ## 📈Excel Projects
 
-- **Sales Performance Dashboard (Excel + Power Query + DAX + Power Pivot)**  
-  Business dashboard built in Excel using advanced modeling and reporting tools  
-  🔗 [Repository](https://github.com/fardousfa/Sales-Performance-Data-Analysis-Excel-Power-Query-DAX-Power-Pivot)
 
 - **Financial Forecasting (Regression / Analytics in Excel)**  
   Forecasting project using Excel analytics and regression techniques  
@@ -86,9 +77,6 @@ Advanced Excel dashboard project combining **data transformation, modeling, and 
 
 ## 📈SQL Projects
 
-- **FP&A Variance Analysis in SQL and Power BI**  
-  SQL-based business logic and data preparation for finance reporting  
-  🔗 [Repository](https://github.com/fardousfa/Commercial-Finance-Variance-Analysis-PVM-in-SQL-and-Power-BI)
 
 - **PostgreSQL + Microsoft Fabric + Power BI Service**  
   SQL-driven data workflow connected to reporting and service-layer delivery  
