@@ -6,7 +6,7 @@
 
 Accounting & Finance graduate with strong financial knowledge, backed by modern analytical tools including advanced Excel, Power BI, Power Query, DAX, M, and SQL, and currently progressing through the CIMA Management Level.
 
-Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfardousm/)
 [![My Certificates](https://img.shields.io/badge/My%20Certificates-Open-blue?logo=github&logoColor=white)](https://github.com/fardousfa/MyCertificates)
